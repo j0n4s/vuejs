@@ -1,0 +1,13 @@
+{
+  "name": "vuejs",
+  "description": "Ejemplo para aprender vue.js",
+  "main": "index.js",
+  "authors": [
+    "Jonathan Tinajero"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/j0n4s/vuejs",
+  "dependencies": {
+    "vue": "^2.1.6"
+  }
+}
